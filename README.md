@@ -24,7 +24,7 @@ To run the Bank Management System project, follow these steps:
 2.Open the project in Eclipse.  
 3.Run the AccountUtility class to start the application.  
 
-##Functionality
+## Functionality
 The main functionality of the application includes:
 
 Creating Products: Users can create new products and associate services with them.
@@ -37,7 +37,7 @@ Displaying Customer Information: View details of a specific customer.
 
 Transaction Billing: Generate transaction bills for customers.
 
-##Usage
+## Usage
 Upon running the application, you will be prompted with a main menu.
 
 Choose from the available options to perform various operations.
@@ -46,5 +46,5 @@ Follow the prompts to input necessary information.
 
 Repeat or exit the application based on your preferences.
 
-##UML Class Diagram
+## UML Class Diagram
 ![ILP_OOAD_14112023_Day03_Assignment_IHHAS-A umlcd](https://github.com/abhijithanair/OOAD-Training-Assignment/assets/83201816/af30b702-c649-4bfc-aec0-7893d23a8955)
